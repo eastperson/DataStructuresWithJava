@@ -1,0 +1,3 @@
+rootProject.name = 'DS_ex'
+include 'ex_01'
+
