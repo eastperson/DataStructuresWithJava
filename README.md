@@ -1,7 +1,7 @@
 # 자료구조
 
 <h3>자바와 함께하는 자료구조의 이해</h3>
-<img src="https://user-images.githubusercontent.com/66561524/130345513-0b444758-759d-4d44-bcba-3d28bd682797.png">
+<img src="https://user-images.githubusercontent.com/66561524/132931237-d6072da4-5451-4834-b56e-e29e97db993b.png">
 저자 양성봉
 
 # Review Content
