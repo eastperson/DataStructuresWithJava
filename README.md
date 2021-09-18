@@ -14,8 +14,8 @@
 <li><a href="https://www.notion.so/Chapter-03-6ba69542506b437d92d4d937831bf08b">3장 스택과 큐</a></li>
 <li><a href="https://www.notion.so/Chapter-4-abf4e864448245f3aeac97f134b1a742">4장 트리</a></li>
 <li><a href="">5장 탐색트리 (정리중)</a></li>
-<li><a href="">6장 해시테이블 (정리중)</a></li>
-<li><a href="">7장 우선순위큐 (정리중)</a></li>
-<li><a href="">8장 정렬 (정리중)</a></li>
+<li><a href="">6장 해시테이블</a></li>
+<li><a href="">7장 우선순위큐 </a></li>
+<li><a href="">8장 정렬 </a></li>
 <li><a href="">9장 그래프 (정리중)</a></li>
 </ol>
